@@ -4,7 +4,7 @@
 
 ### Dependencies
 
-required packages: 
+Required packages: 
 
 - `python 3.6`
 - `Pytorch 1.0+`
@@ -15,7 +15,7 @@ required packages:
 - `nltk`
 - `scikit-image`
 
-run `pip install -r requirements.txt` to install the required dependencies.
+Run `pip install -r requirements.txt` to install the required dependencies.
 
 
 ### Sampling
